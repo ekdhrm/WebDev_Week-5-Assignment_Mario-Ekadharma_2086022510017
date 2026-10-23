@@ -42,6 +42,7 @@
         ],
         "dev": [
             "Composer\\Config::disableProcessTimeout",
+            "npm run dev",
             "@php artisan dev"
         ],
         "test": [
